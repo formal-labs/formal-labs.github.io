@@ -54,8 +54,14 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Лаборатория формальной математики
+          subtitle: "Лаборатория формальной математики проводит междисциплинарные исследования в области формальных методов и их приложений. Мы используем логику и автоматизированные средства доказательства теорем (такие как Coq, Lean, Isabelle) для решения задач в следующих областях:
+
+- Автоматизация формальной верификации с применением методов искусственного интеллекта.
+
+- Формализация продвинутых математических теорий, включая теорию категорий, теорию чисел и основы квантовых вычислений.
+
+- Верификация и синтез алгоритмов для квантовых и классических вычислительных моделей."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
