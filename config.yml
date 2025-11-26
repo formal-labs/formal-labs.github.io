@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+title: Лаборатория формальной математики
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,18 +12,14 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
+        - name: Статьи
           url: papers/
-          weight: 2
-        - name: Courses
+        - name: Участники
+          url: staff/
+        - name: Курсы
           url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4
+        - name: Семинар
+          url: seminar/
 
 params:
     description: "Лаборатория формальной математики"
@@ -71,30 +67,6 @@ params:
               url: courses/
             - name: Семинар
               url: seminar/
-
-    socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
 
     assets:
         disableScrollBarStyle: true
