@@ -59,14 +59,14 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Статьи
-              url: papers/
-            - name: Участники
-              url: staff/
-            - name: Курсы
-              url: courses/
             - name: Семинар
               url: seminar/
+            - name: Участники
+              url: staff/
+            - name: Статьи
+              url: papers/
+            - name: Курсы
+              url: courses/
 
     assets:
         disableScrollBarStyle: true
