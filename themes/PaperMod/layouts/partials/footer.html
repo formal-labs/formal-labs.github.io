@@ -6,7 +6,6 @@
         {{- else }}
         <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
         {{- end }}
-        {{- print " · "}}
     {{- end }}
 
     {{- with site.Params.footer.text }}
