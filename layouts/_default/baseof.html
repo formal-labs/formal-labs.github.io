@@ -9,55 +9,52 @@
 <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
 <style>
 :root {
-  --academic-blue: #0056b3;
-  --border-color: #ddd;
-  --text-main: #333;
+  --link: #14477a;
+  --rule: #222;
 }
 body {
-  background-color: #F8ECC2;
-  color: #000;
+  background-color: #e9e7e0;
+  color: #111;
   font-family: "Times New Roman", Times, serif;
   font-size: 16px;
+  line-height: 1.45;
   margin: 0;
-  padding: 1rem;
+  padding: 1.25rem 1.5rem;
 }
-a { color: var(--academic-blue); }
-h1 { margin-top: 0; }
+a { color: var(--link); }
+h1 { margin: 0 0 0.75rem; font-size: 1.75rem; }
+h2 { font-size: 1.25rem; margin-top: 1.75rem; }
 
 /* Navigation bar */
-nav.math-nav {
-  padding: 0.6rem 0;
-  margin: 0.75rem 0 1.5rem;
-  border-top: 0.0625rem solid var(--border-color);
-  border-bottom: 0.0625rem solid var(--border-color);
+nav.site-nav {
+  margin: 0 0 2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 0.09rem solid var(--rule);
 }
-nav.math-nav ul {
+nav.site-nav ul {
   list-style: none;
   display: flex;
-  justify-content: center;
   flex-wrap: wrap;
+  gap: 1.75rem;
   margin: 0;
   padding: 0;
 }
-nav.math-nav li { margin: 0.5em 1em; }
-nav.math-nav a {
+nav.site-nav a {
   text-decoration: none;
-  color: var(--text-main);
-  font-variant: small-caps;
-  font-size: 1.1rem;
-  letter-spacing: 0.03em;
+  color: #111;
+  font-size: 1.25rem;
 }
-nav.math-nav a:hover { color: var(--academic-blue); border-bottom: 0.07em solid var(--academic-blue); }
+nav.site-nav a:hover { text-decoration: underline; }
 
 /* Seminar talk blocks */
-.talk { margin: 0 0 1em; }
+.talk { margin: 0 0 1.1em; }
 .talk .theme { font-weight: 600; }
 .talk .speaker { font-style: italic; }
 .talk .abstract { margin: 0.4em 0 0 2em; text-align: justify; }
 </style>
 </head>
 <body>
-<nav class="math-nav">
+<nav class="site-nav">
 <ul>
 {{ range .Site.Menus.main }}
 <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>

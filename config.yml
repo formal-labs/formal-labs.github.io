@@ -10,7 +10,7 @@ menu:
         - name: Семинар
           url: /
           weight: 1
-        - name: Курсы
+        - name: Курс
           url: /courses/
           weight: 2
 
