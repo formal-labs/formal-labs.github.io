@@ -1,91 +1,24 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Лаборатория формальной математики
-theme: PaperMod
+baseURL: "https://formal-labs.github.io/"
+title: Formal Labs
+locale: ru
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
-pagination:
-  pagerSize: 20
-
-taxonomies:
-    tag: tags
 
 menu:
     main:
-        - name: Статьи
-          url: papers/
-        - name: Участники
-          url: staff/
-        - name: Курсы
-          url: courses/
         - name: Семинар
-          url: seminar/
+          url: /
+          weight: 1
+        - name: Курсы
+          url: /courses/
+          weight: 2
 
 params:
     description: "Лаборатория формальной математики"
     author: Лаборатория формальной математики
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: Лаборатория формальной математики
-          subtitle: "Лаборатория формальной математики проводит междисциплинарные исследования в области формальных методов и их приложений. Мы используем логику и автоматизированные средства доказательства теорем (такие как Coq, Lean, Isabelle) для решения задач в следующих областях:
-
-- Автоматизация формальной верификации с применением методов искусственного интеллекта.
-
-- Формализация продвинутых математических теорий, включая теорию категорий, теорию чисел и основы квантовых вычислений.
-
-- Верификация и синтез алгоритмов для квантовых и классических вычислительных моделей."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
-          buttons:
-            - name: Семинар
-              url: seminar/
-            - name: Участники
-              url: staff/
-            - name: Статьи
-              url: papers/
-            - name: Курсы
-              url: courses/
-
-    assets:
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
-    label:
-      text: "Лаборатория формальной математики"
-      icon: favicon.ico
-      iconHeight: 18
 
 markup:
     goldmark:
         renderer:
             unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
