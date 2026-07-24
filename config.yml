@@ -10,9 +10,13 @@ menu:
         - name: Семинар
           url: /
           weight: 1
-        - name: Курс
-          url: /courses/
+        - name: Курс по теории типов
+          url: /typetheory/
           weight: 2
+        - name: Курс по теории категорий
+          url: /categorytheory/
+          weight: 3
+        
 
 params:
     description: "Лаборатория формальной математики"
