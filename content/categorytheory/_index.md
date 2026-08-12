@@ -26,4 +26,4 @@ n. Топосы
 **Что такое комбинаторные виды?**<br />
 [Слайды](https://d1-d57.github.io/materials/teorkat/lekciya-1.html) · [pdf](https://d1-d57.github.io/materials/teorkat/lekciya-1.pdf) · [видео](https://zoom.us/clips/share/play-list/7fd75c7343274c1f99f3d781d18b5fb4)
 
-Лекции проходят <a href="https://us02web.zoom.us/j/83562528988?pwd=XoEejx9YpjROedJ4sZgbVDbTpeyLvv.1">тут</a>.
+Лекции проходят <a href="https://us02web.zoom.us/j/85792683781?pwd=Bu95LejaCO48RkqfcmeWfeXfWjG5ia.1">тут</a>.
