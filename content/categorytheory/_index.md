@@ -24,26 +24,26 @@ n. Топосы
 ## Лекция 1
 
 **Что такое комбинаторные виды?**<br />
-[Слайды (PDF)](/slides/Cat1.pdf) · [видео](https://us02web.zoom.us/clips/share/8GZ8wqZ6SsGYt-eYDFtkrA)
+[Слайды](https://d1-d57.github.io/materials/teorkat/lekciya-1.html) · [PDF](/slides/Cat1.pdf) · [видео](https://us02web.zoom.us/clips/share/8GZ8wqZ6SsGYt-eYDFtkrA)
 
 ## Лекция 2
 
 **Функторы**<br />
-[Слайды (PDF)](/slides/Cat2.pdf) · [видео](https://us02web.zoom.us/clips/share/_e-pVeGRRfCj6OlfUjdBxw)
+[Слайды](https://d1-d57.github.io/materials/teorkat/lekciya-2.html) · [PDF](/slides/Cat2.pdf) · [видео](https://us02web.zoom.us/clips/share/_e-pVeGRRfCj6OlfUjdBxw)
 
 ## Лекция 3
 
 **Моноиды**<br />
-[Слайды (PDF)](/slides/Cat3.pdf) · [видео](https://us02web.zoom.us/clips/share/n64_50SvSEaKc3yZXSZXZw)
+[PDF](/slides/Cat3.pdf) · [видео](https://us02web.zoom.us/clips/share/n64_50SvSEaKc3yZXSZXZw)
 
 ## Лекция 4
 
 **Эпиморфизмы**<br />
-[Слайды (PDF)](/slides/Cat4.pdf) · [видео](https://us02web.zoom.us/clips/share/0TdkprV1QKmLrcRqEFR1Rw)
+[PDF](/slides/Cat4.pdf) · [видео](https://us02web.zoom.us/clips/share/0TdkprV1QKmLrcRqEFR1Rw)
 
 ## Лекция 5
 
 **Колимиты**<br />
-[Слайды (PDF)](/slides/Cat5.pdf) · [видео](https://us02web.zoom.us/clips/share/6wYsIl7UQR-lLAdtZVoOEg)
+[PDF](/slides/Cat5.pdf) · [видео](https://us02web.zoom.us/clips/share/6wYsIl7UQR-lLAdtZVoOEg)
 
 Лекции проходят <a href="https://us02web.zoom.us/j/85792683781?pwd=Bu95LejaCO48RkqfcmeWfeXfWjG5ia.1">тут</a>.
