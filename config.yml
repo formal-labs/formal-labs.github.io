@@ -16,6 +16,9 @@ menu:
         - name: Курс по теории категорий
           url: /categorytheory/
           weight: 3
+        - name: Курс по Lean
+          url: /lean/
+          weight: 4
         
 
 params:

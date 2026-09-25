@@ -2,3 +2,7 @@
 public/
 resources/
 .hugo_build.lock
+
+# Local artifacts
+.DS_Store
+output/

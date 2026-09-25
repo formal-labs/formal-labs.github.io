@@ -27,4 +27,26 @@ description: "Онлайн-курс «Современные теории тип
 
 Не требуется предварительной подготовки по теории типов, но пригодятся базовые познания в функциональном программировании и алгебре. Знание теории категорий для понимания курса в целом не нужно, за одним исключением: мы будем обсуждать внутренние языки категорий и топосов (определение топоса дадим по ходу), где не помешает помнить определение декартово замкнутой категории.
 
+[Конспект первых лекций (PDF)](/typetheory/lec1-3.pdf) · [Все видеозаписи](https://us02web.zoom.us/clips/share/play-list/96565301f0b748efb062764640fb514b)
+
+## Лекция 1
+
+**Вводная лекция**<br />
+[видео](https://us02web.zoom.us/clips/share/YvHUOkq2Qa6-Yb4QQjhw8w)
+
+## Лекция 2
+
+**STLC и System T**<br />
+[Домашнее задание (PDF)](/typetheory/homework-system-t.pdf) · [видео](https://us02web.zoom.us/clips/share/QrkQ7bSVRD-6O0Gwg62LRw)
+
+## Лекция 3
+
+**PCF**<br />
+[видео](https://us02web.zoom.us/clips/share/MT6aQlWjRFOQDzE06CpIHA)
+
+## Лекция 4
+
+**System F**<br />
+[видео](https://us02web.zoom.us/clips/share/QOOLrfVhQXOHvRZcHNIyBQ)
+
 Лекции проходят <a href="https://us02web.zoom.us/j/85792683781?pwd=Bu95LejaCO48RkqfcmeWfeXfWjG5ia.1">тут</a>.
