@@ -38,12 +38,12 @@ n. Топосы
 
 ## Лекция 4
 
-**Эпиморфизмы**<br />
+**Инициальные объекты, мономорфизмы, расширения Кана**<br />
 [PDF](/slides/Cat4.pdf) · [видео](https://us02web.zoom.us/clips/share/0TdkprV1QKmLrcRqEFR1Rw)
 
 ## Лекция 5
 
-**Колимиты**<br />
+**(Ко)пределы**<br />
 [PDF](/slides/Cat5.pdf) · [видео](https://us02web.zoom.us/clips/share/6wYsIl7UQR-lLAdtZVoOEg)
 
 Лекции проходят <a href="https://us02web.zoom.us/j/85792683781?pwd=Bu95LejaCO48RkqfcmeWfeXfWjG5ia.1">тут</a>.
