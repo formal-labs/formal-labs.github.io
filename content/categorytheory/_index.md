@@ -46,4 +46,9 @@ n. Топосы
 **(Ко)пределы**<br />
 [PDF](/slides/Cat5.pdf) · [видео](https://us02web.zoom.us/clips/share/6wYsIl7UQR-lLAdtZVoOEg)
 
+## Лекция 6
+
+**Лемма Йонеды**<br />
+[PDF](/slides/Cat6.pdf) · [видео](https://us02web.zoom.us/clips/share/Fd-jx2asSJmfGDbehVf2ww)
+
 Лекции проходят <a href="https://us02web.zoom.us/j/85792683781?pwd=Bu95LejaCO48RkqfcmeWfeXfWjG5ia.1">тут</a>.
