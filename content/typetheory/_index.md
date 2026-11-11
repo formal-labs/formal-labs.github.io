@@ -49,4 +49,14 @@ description: "Онлайн-курс «Современные теории тип
 **System F**<br />
 [видео](https://us02web.zoom.us/clips/share/QOOLrfVhQXOHvRZcHNIyBQ)
 
+## Лекция 5
+
+**System F-omega**<br />
+[видео](https://us02web.zoom.us/clips/share/kW5PoEcfQJigq8OYEkonyQ)
+
+## Лекция 6
+
+**Зависимые типы**<br />
+[видео](https://us02web.zoom.us/clips/share/WGC6guqgRXOuoaJScm8e5w)
+
 Лекции проходят <a href="https://us02web.zoom.us/j/85792683781?pwd=Bu95LejaCO48RkqfcmeWfeXfWjG5ia.1">тут</a>.
