@@ -59,4 +59,14 @@ description: "Онлайн-курс «Современные теории тип
 **Зависимые типы**<br />
 [видео](https://us02web.zoom.us/clips/share/WGC6guqgRXOuoaJScm8e5w)
 
+## Лекция 7
+
+**Индуктивные типы данных и их семейства**<br />
+[видео](https://us02web.zoom.us/clips/share/d414cypKQB66Y6aocwGrrg)
+
+## Лекция 8
+
+**Исчисления построений: основа Rocq и Lean**<br />
+[видео](https://us02web.zoom.us/clips/share/UpkhTz9ZQ7qcUPzOqPNm3Q)
+
 Лекции проходят <a href="https://us02web.zoom.us/j/85792683781?pwd=Bu95LejaCO48RkqfcmeWfeXfWjG5ia.1">тут</a>.

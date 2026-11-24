@@ -51,4 +51,19 @@ n. Топосы
 **Лемма Йонеды**<br />
 [PDF](/slides/Cat6.pdf) · [видео](https://us02web.zoom.us/clips/share/Fd-jx2asSJmfGDbehVf2ww)
 
+## Лекция 7
+
+**Функтор-категории**<br />
+[PDF](/slides/Cat7.pdf) · [видео](https://us02web.zoom.us/clips/share/iuY5hPIxRNiPwxFVUPAddw)
+
+## Лекция 8
+
+**Элементарные топосы**<br />
+[PDF](/slides/Cat8.pdf) · [видео](https://us02web.zoom.us/clips/share/uSsZVz-LQOyAvQtKv99osQ)
+
+## Лекция 9
+
+**Комбинаторная теория категорий**<br />
+[видео](https://us02web.zoom.us/clips/share/QlymiKlRR-KxuMWFutz5LA)
+
 Лекции проходят <a href="https://us02web.zoom.us/j/85792683781?pwd=Bu95LejaCO48RkqfcmeWfeXfWjG5ia.1">тут</a>.
